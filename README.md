@@ -1,5 +1,11 @@
 # Machine learning based cyberattack detection
+## Summary
+* Extracted features (such as IP, port, protocol, and duration) from network traffic data
+* Implemented two unsupervised clustering algorithms (One-class SVM & Isolation Forest) to distinguish the botnet traffic from the normal traffic
 
+
+
+## Description
 There are two tasks in this project:
 
 ##### Task1:
